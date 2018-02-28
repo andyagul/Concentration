@@ -17,6 +17,7 @@ class Concentration
     
     var score = 0
     var flips = 0
+
     
     var indexOfOneAndOnlyFaceUpCard: Int?
     var faceUpCardID: Int?

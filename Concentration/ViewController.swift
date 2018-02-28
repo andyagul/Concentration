@@ -3,8 +3,9 @@
 //  Concentration
 //
 //  Created by Adminaccount on 12/5/17.
-//  Copyright © 2017 Steve Harski. All rights reserved.
 //
+
+// original files
 
 import UIKit
 
